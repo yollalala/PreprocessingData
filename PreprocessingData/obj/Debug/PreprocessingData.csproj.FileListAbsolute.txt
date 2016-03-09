@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\PreprocessingData\PreprocessingData\bin\Debug\PreprocessingData.exe.config
+c:\Users\asus\Documents\Visual Studio 2013\Projects\PreprocessingData\PreprocessingData\bin\Debug\PreprocessingData.exe
+c:\Users\asus\Documents\Visual Studio 2013\Projects\PreprocessingData\PreprocessingData\bin\Debug\PreprocessingData.pdb
+c:\Users\asus\Documents\Visual Studio 2013\Projects\PreprocessingData\PreprocessingData\obj\Debug\PreprocessingData.csprojResolveAssemblyReference.cache
+c:\Users\asus\Documents\Visual Studio 2013\Projects\PreprocessingData\PreprocessingData\obj\Debug\PreprocessingData.exe
+c:\Users\asus\Documents\Visual Studio 2013\Projects\PreprocessingData\PreprocessingData\obj\Debug\PreprocessingData.pdb
